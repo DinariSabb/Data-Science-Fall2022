@@ -1,3 +1,6 @@
+#Author: Dinari Sabb, Date: 8/25/22
+
+
 # Create the data frame.
 
 emp.data <- data.frame(
@@ -29,11 +32,3 @@ emp.data.matrix[c(1, 4),]
 # How to perform sub-setting 
 
 emp.data.matrix[c(emp.data.matrix[,1] < 4),]
-
-
-
-
-
-
-
-
